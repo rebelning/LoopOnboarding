@@ -100,6 +100,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		13B65A8B2C3D13AD00A27921 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		4B67E2D0289B4EDB002D92AF /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A936A8B925BC99240085119C /* LoopOnboardingKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LoopOnboardingKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A936A8BB25BC99240085119C /* LoopOnboardingKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoopOnboardingKit.h; sourceTree = "<group>"; };
@@ -586,6 +587,7 @@
 				C1FDCC0C29C786F90056E652 /* sk */,
 				C1E5A6E029C7870100703C90 /* sv */,
 				C192C60629C78711001EFEA6 /* vi */,
+				13B65A8B2C3D13AD00A27921 /* zh-Hans */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
